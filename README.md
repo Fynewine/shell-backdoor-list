@@ -30,7 +30,7 @@ To prevent a site from having a shell uploaded onto it, a webmaster must always 
 
 * [B374K Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/b374k.php)
 
-* [C99 Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/c99.php)
+* [C99 Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/conx.php)
 
 * [R57 Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/r57.php)
 
@@ -42,7 +42,7 @@ To prevent a site from having a shell uploaded onto it, a webmaster must always 
 
 * [AK-47 Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/ak47shell.php)
 
-* [Indoxploit Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/indoxploit.php)
+* [Indoxploit Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/configc.php)
 
 * [Marion001 Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/ak47shell.php)
 
